@@ -1,1 +1,1 @@
-Machine Learning project using Deep Embedded Clustering (DEC) to optimize ambulance placement and improve emergency response time for road accidents.
+OPTIMAL AMBULANCE POSITINING FOR RAOD ACCIDENTS WITH DEEP EMBEDDED CLUSTERING
